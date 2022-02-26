@@ -1,0 +1,14 @@
+{
+  "name": "TS",
+  "version": "1.0.0",
+  "description": "Learning typescript",
+  "main": "index.js",
+  "author": "Blessing Emah ",
+  "scripts": {
+    "build": "tsc rating.ts"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "typescript": "^4.5.5"
+  }
+}
