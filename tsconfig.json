@@ -35,6 +35,6 @@
       "sourceMap": true
     },
     "files": [
-      "typescript/rating.ts"
+      "typescript/startup.ts"
     ]
 }  

@@ -5,7 +5,7 @@
   "main": "index.js",
   "author": "Blessing Emah ",
   "scripts": {
-    "build": "tsc rating.ts"
+    "build": "tsc startup.ts"
   },
   "license": "MIT",
   "dependencies": {
